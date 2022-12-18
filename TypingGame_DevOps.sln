@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingGame_DevOps", "TypingGame_DevOps\TypingGame_DevOps.csproj", "{9C8CDA18-02F6-4E00-A23E-8D992E431B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8CDA18-02F6-4E00-A23E-8D992E431B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8CDA18-02F6-4E00-A23E-8D992E431B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8CDA18-02F6-4E00-A23E-8D992E431B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8CDA18-02F6-4E00-A23E-8D992E431B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A37F9D-72EE-420F-9CF8-A1188FD85205}
+	EndGlobalSection
+EndGlobal
